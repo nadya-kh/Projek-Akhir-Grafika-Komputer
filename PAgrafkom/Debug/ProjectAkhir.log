@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj, Lesson04.vcxproj, PA.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+E:\Kuliah\SEMESTER 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\ProjectAkhir\Demo.cpp(358,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Kuliah\SEMESTER 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\ProjectAkhir\Demo.cpp(732,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ProjectAkhir.vcxproj -> E:\Kuliah\SEMESTER 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Debug\ProjectAkhir.exe
